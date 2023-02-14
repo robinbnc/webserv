@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+date: Sun, 16 Oct 2022 20:05:29 GMT
+server: cberganz.42.fr
+retry-after: 120
+transfer-encoding: chunked
+Content-type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cours PHP & MySQL</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="cours.css">
+    </head>
+    
+    <body>
+        <h1>Titre principal</h1>
+        Hello World <br>Bonjour le Monde        <p>Un paragraphe</p>
+    </body>
+</html>
+
