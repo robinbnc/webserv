@@ -4,7 +4,7 @@
 | Project Name | Webserv |
 | :-: | :-: |
 | Description | 42 project, recoding our own web server in C++. A program capable of running an HTTP server, handling requests, and parsing configuration files. The Web server must be HTTP 1.1 compliant. |
-| Technologies | <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge"></a> |
+| Technologies | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">|
 | Final grade | 125/125 |
 
 
