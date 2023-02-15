@@ -24,6 +24,18 @@
 
 [HTTP/1.1 : Authentication (RFC 7235)](https://www.rfc-editor.org/rfc/rfc7235.html)
 
+## Usage
+```
+git clone https://github.com/robinbnc/webserv.git
+```
+```
+make
+```
+```
+./webserv config_files/demo.conf
+```
+http://127.0.0.1:8080
+
 ## TCP socket programming
 Socket : mechanism to give programs access to the network
 - **create** a socket with `socket()`
